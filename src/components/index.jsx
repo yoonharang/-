@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import DrawingCanvas from './drawingCanvas.jsx';
 import UtilityBar from './utilityBar';
-import ControlButtons from './ControlButtons';
+import ControlButtons from './controlButtons';
 import useDrawingLogic from './useDrawingLogic';
 import RoomSettingsPanel from './RoomInfoModal';
 
